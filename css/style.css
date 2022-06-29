@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: yellowgreen;   
+}
+
+#title {
+    font-size: 50px;
+    text-align: center;
+}
+
+#ludo {
+    width: 20%;
+    margin: auto;
+    display: block;
+}
+
+.links {
+    text-align: center;
+    display: block;
+    color: yellowgreen;
+}
