@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: yellowgreen;   
+    background-color: #F6F3EA;
+    color: #474B60;   
 }
 
 #title {
@@ -16,6 +16,5 @@ body {
 
 .links {
     text-align: center;
-    display: block;
-    color: yellowgreen;
+    font-size: x-large;
 }
