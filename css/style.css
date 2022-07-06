@@ -15,6 +15,12 @@ body {
 }
 
 .links {
+    display: flex;
+    width: 400px;
+    padding-left: 35%;
+    padding-top: 5%;
+    justify-content: space-between;
+    /* remove the original setting below to use the above flex container
     text-align: center;
-    font-size: x-large;
+    font-size: x-large;*/
 }
